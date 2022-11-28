@@ -1,3 +1,6 @@
+.ipynb_checkpoints/
+.DS_Store
+
 #carpetas
 /Datasets/E.laboral/ano-2020.csv
 /Datasets/E.laboral/encuesta-nacional-de-empleo-año-referencia-2010-2017.pdf
